@@ -1,0 +1,286 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    }
+    .logo{
+    padding-left: 30px;
+    padding-top: 5px;
+    }
+    .se{
+
+    }
+    .se a{
+        text-decoration: none;
+        color: black;
+    }
+     .se ul{
+       list-style: none;
+       display: flex;
+       padding-right: 30px;
+       padding-top: px;
+    }
+    .se li{
+        display: block;
+        padding-left: 20px;
+        text-align: center;
+    }
+    .se span{
+      padding-left: px;
+      color: #f2903a;
+    }
+    .se span:hover{
+      border-bottom: 2px solid #f2903a;
+
+  }
+  .se-1 span:hover{
+    border-bottom: 2px solid #f2903a;
+
+}
+    .sns{
+      padding-top: 300px;
+    position: fixed;
+    z-index: 99;
+    padding-left: px;
+    flex-direction: column;
+      align-items: center;
+      right:0;
+      padding-bottom: 60px;
+
+  }
+  .sns img{
+      display: flex;
+      padding-bottom: 15px;
+  }
+  .sns a{
+
+  }
+  .sns1-1{
+      transform: translateY(px);
+      padding-bottom: 10px;
+  }
+  .sns1-2{
+
+      transform: translateY(px);
+  }
+  .sns-box img{
+          margin-left: 10px;
+
+  }
+  .sns1-1:hover{
+      opacity: 0.8;
+  }
+  .sns1-2:hover{
+      opacity: 0.8;
+  }
+}
+    .main{
+
+    }
+    .main-img{
+    background-image: url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/u_mv1.jpg);
+      min-height: 50vh;
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      position: relative;
+    }
+    .main-me{
+      text-align: center;
+      transform: translateY(150px);
+    }
+    .main-me h2{
+  font-size: 32px;
+  color: #fff;
+    }
+    .main-me span{
+      color: #fff;
+      font-size: 18px;
+    }
+    .main2{
+        padding-top: 100px;
+        padding-left: 50px;
+        }
+        .title2 {
+        display: flex;
+
+        }
+        .title2 img{
+          padding-right: 10px;
+        }
+        .title2 h3{
+      font-size: 40px;
+      transform: translateY(-50px);
+        }
+        .me2-1{
+
+        }
+        .me2{
+      display: flex;
+      transform: translateY(-50px);
+        }
+        .me2-1 p{
+       width: 650px;
+       font-size: 18px;
+        }
+        .img2{
+      padding-left: 110px;
+        }
+        .main2{
+            padding-top: 100px;
+            padding-left: 50px;
+            }
+            .title2 {
+            display: flex;
+
+            }
+            .title2 img{
+              padding-right: 10px;
+            }
+            .title2 h3{
+          font-size: 40px;
+          transform: translateY(-50px);
+            }
+            .me2-1{
+
+            }
+            .me2{
+          display: flex;
+          transform: translateY(-50px);
+            }
+            .me2-1 p{
+           width: 650px;
+           font-size: 18px;
+            }
+            .img2{
+          padding-left: 110px;
+            }
+            .main2{
+                padding-top: 100px;
+                padding-left: 50px;
+                }
+                .title2 {
+                display: flex;
+
+                }
+                .title2 img{
+                  padding-right: 10px;
+                }
+                .title2 h3{
+              font-size: 40px;
+              transform: translateY(-50px);
+                }
+                .me2-1{
+
+                }
+                .me2{
+              display: flex;
+              transform: translateY(-50px);
+                }
+                .me2-1 p{
+               width: 650px;
+               font-size: 18px;
+                }
+                .img2{
+              padding-left: 110px;
+                }
+                .main2{
+                    padding-top: 100px;
+                    padding-left: 50px;
+                    }
+                    .title2 {
+                    display: flex;
+
+                    }
+                    .title2 img{
+                      padding-right: 10px;
+                    }
+                    .title2 h3{
+                  font-size: 40px;
+                  transform: translateY(-50px);
+                    }
+                    .me2-1{
+
+                    }
+                    .me2{
+                  display: flex;
+                  transform: translateY(-50px);
+                    }
+                    .me2-1 p{
+                   width: 650px;
+                   font-size: 18px;
+                    }
+                    .img2{
+                  padding-left: 110px;
+                    }
+                    .main2{
+                        padding-top: 100px;
+                        padding-left: 50px;
+                        }
+                        .title2 {
+                        display: flex;
+
+                        }
+                        .title2 img{
+                          padding-right: 10px;
+                        }
+                        .title2 h3{
+                      font-size: 40px;
+                      transform: translateY(-50px);
+                        }
+                        .me2-1{
+
+                        }
+                        .me2{
+                      display: flex;
+                      transform: translateY(-50px);
+                        }
+                        .me2-1 p{
+                       width: 650px;
+                       font-size: 18px;
+                        }
+                        .img2{
+                      padding-left: 110px;
+                        }
+                        footer{
+                            padding-top: 100px;
+                            padding-bottom: 30px;
+
+                            }
+                            .logo-1{
+                            padding-left: 30px;
+
+                            }
+                            .se-1{
+                             padding-left: 340px;
+                            }
+                            .se-1 a{
+
+                                text-decoration: none;
+                                color: black;
+
+
+                            }
+                             .se-1 ul{
+                               list-style: none;
+                               display: flex;
+
+                               padding-top: px;
+                            }
+                            .se-1 li{
+                                display: block;
+                                padding-left: 45px;
+                                text-align: center;
+                            }
+                            .se-1 span{
+                                color: #f2903a;
+                            }
+                            .display{
+                                display: flex;
+
+                            }
+                            .p{
+                             padding-left: 1000px;
+                            }
+                            .p p{
+                                color: gray;
+                            }
