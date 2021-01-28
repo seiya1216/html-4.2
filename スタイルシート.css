@@ -72,7 +72,21 @@ header{
   .sns1-2:hover{
       opacity: 0.8;
   }
-}
+  .main3-1{
+      padding-top: 40px;
+      padding-left: 50px;
+
+  }
+  .main3-1 a{
+   text-decoration: none;
+  color: black;
+  }
+  .main3-1 a:hover{
+    border-bottom:  2px solid #f2903a;
+  }
+  .main3-1 span{
+  color: #f2903a;
+  }
     .main{
 
     }
