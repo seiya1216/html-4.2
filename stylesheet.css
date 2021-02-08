@@ -298,3 +298,233 @@ header{
                             .p p{
                                 color: gray;
                             }
+@media (max-width:780px){
+    .header{
+
+    }
+    .logo{
+
+    }
+    .se{
+    width: px;
+    }
+    .se li{
+     font-size: 28px;
+    
+    }
+    .se ul{
+   width: 1050px;
+    }
+    .se a{
+    
+    }
+    .se span{
+
+    }
+    .main{
+
+    }
+    .main-img{
+        background-image: url(https://peasmile2525.com/wp-content/themes/peasmile/assets/img/u_mv1.jpg);
+        min-height: 50vh;
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+        width: 1500px;
+    }
+    .main-me h2{
+     font-size: 60px;
+    }
+    .main-me span{
+     font-size: 50px;
+    }
+    .main3-1{
+
+    }
+    .main3-1 a{
+    font-size: 40px;
+    }
+    .main3-1 span{
+        font-size: 40px;
+    }
+    .main2{
+     margin-left: 50px;
+    }
+    .title2{
+
+    }
+    .title2 img{
+     width: 60px;
+     height: 60px;
+    }
+    .title2 h3{
+     font-size: 50px;
+    }
+    .me2{
+
+    }
+    .me2-1{
+    
+    }
+    .me2-1 p{
+     font-size: 28px;
+     width: 600px;
+     font-weight: 800;
+    }
+    .img2{
+
+    }
+    footer{
+
+    }
+    .logo-1 img{
+
+    }
+    .se-1{
+
+    }
+    .se-1 ul{
+        width: 1000px;
+     transform: translateX(120px);
+    }
+    .se-1 li{
+        font-size: 25px;
+        
+    } 
+    .se-1 a{
+
+    }
+    .se-1 span{
+
+    }
+    .sns1 img{
+        width: 100px;
+        height: 100px;
+    }
+    .sns-box img{
+        width: 60px;
+        height: 250px;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:420px){
+    html{
+        width: 0px;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+    
+    }
+    .se{
+   
+    
+    }
+    .se li{
+     font-size: 21px;
+     
+    }
+    .se ul{
+   width: 800px;
+   transform: translateX(30px);
+    }
+    .se a{
+    
+    }
+    .se span{
+
+    }
+    .sns{
+        display:none ;
+
+    }
+    .main{
+
+    }
+    .main-img{
+        width: 900px;
+        min-height: 60vh;
+    }
+    .main-me{
+        transform: translateY(px);
+    }
+    .main-me h2{
+        
+     font-size: 40px;
+    }
+    .main-me span{
+        
+     font-size: 40px;
+    }
+    .main3-1{
+width: 500px;
+    }
+    .main3-1 a{
+     font-size: 30px;
+    }
+    .main3-1 span{
+    font-size: 30px;
+    }
+    .main2{
+    width: 500px;
+    margin-left: 100px;
+    }
+    .me2{
+        display:flex;
+        flex-direction: column;
+    }
+    .title2{
+        display:flex;
+        flex-direction: column;
+        transform: translateX(-65px);
+        width: 300px;
+    }
+    .title2 img{
+     
+    }
+    .title2 h3{
+
+    }
+    .me2-1{
+
+    }
+    .me2-1 p{
+     font-size: 30px;
+     width: 650px;
+     transform: translateX(-60px);
+    }
+    .img2 img{
+        width: 500px;
+        height: 400px;
+        transform: translateX(px);
+    }
+    .display{
+        display: flex;
+        flex-direction: column;
+    }
+    .se-1 li{
+        font-size: 21px;
+        
+       }
+       .se-1 ul{
+      width: 800px;
+      transform: translateX(30px);
+       }
+       .se a{
+       
+       }
+       .se span{
+   
+       }
+       .p{
+          display: none
+       }
+}
