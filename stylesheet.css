@@ -299,27 +299,39 @@ header{
                                 color: gray;
                             }
 @media (max-width:780px){
-    .header{
-
+    header{
+        display: flex;
+        flex-direction: column;
     }
-    .logo{
-
+    .logo img{
+        width: 700px;
+        height: 120px;
+        transform: translateY(px);
     }
     .se{
-    width: px;
-    }
-    .se li{
-     font-size: 28px;
-    
+        padding-top: 50px;
+        transform: translateX(-20px);
+        margin-right: 50px;
+
     }
     .se ul{
-   width: 1050px;
+        width: 1450px;
+     font-size: 40px;
     }
-    .se a{
-    
-    }
-    .se span{
+    .se li{
 
+    }
+    .sns1-1 img{
+        width: 80px;
+        height: 80px;
+    }
+    .sns1-2 img{
+        width: 80px;
+        height: 80px;
+    }
+    .sns-box img{
+        width: 50px;
+        height: 200px;
     }
     .main{
 
@@ -375,35 +387,27 @@ header{
 
     }
     footer{
-
-    }
-    .logo-1 img{
-
-    }
-    .se-1{
-
+        transform: translateY(00px);
+        display: flex;
+        flex-direction: column;
+       }
+       .display{
+        display: flex;
+        flex-direction: column;
+           
+       }
+       .se-1{
+        
+        transform: translateX(00px);
     }
     .se-1 ul{
-        width: 1000px;
-     transform: translateX(120px);
+        width: 1450px;
+     font-size: 40px;
     }
-    .se-1 li{
-        font-size: 25px;
-        
-    } 
-    .se-1 a{
-
-    }
-    .se-1 span{
-
-    }
-    .sns1 img{
-        width: 100px;
-        height: 100px;
-    }
-    .sns-box img{
-        width: 60px;
-        height: 250px;
+    .p{
+        transform: translateX(px);
+        width: 00px;
+        font-size: 20px;
     }
 }
 
@@ -429,12 +433,12 @@ header{
     
     }
     .se li{
-     font-size: 21px;
+     font-size: 23px;
      
     }
     .se ul{
-   width: 800px;
-   transform: translateX(30px);
+   width: 850px;
+   transform: translateX(-10px);
     }
     .se a{
     
@@ -511,12 +515,12 @@ width: 500px;
         flex-direction: column;
     }
     .se-1 li{
-        font-size: 21px;
+        font-size: 22px;
         
        }
        .se-1 ul{
-      width: 800px;
-      transform: translateX(30px);
+      width: 850px;
+      transform: translateX(-10px);
        }
        .se a{
        
@@ -525,6 +529,6 @@ width: 500px;
    
        }
        .p{
-          display: none
+         transform: translateX(-800px);
        }
 }
